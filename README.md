@@ -1,16 +1,17 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
 Project: "End-to-End CI/CD Automation with Argo CD"
-
-
-
-
-
-
-
-
-
-
-
-
 Role: DevOps Engineer
 
 Description:
