@@ -22,7 +22,7 @@ Designed and implemented an end-to-end Continuous Integration/Continuous Deploym
 
 Orchestrated the entire development and deployment process to ensure rapid and reliable software delivery, leveraging Jenkins, Docker, Maven, **SonarQube**, Git, Kubernetes, and Argo CD.
 
-Automated code analysis, Docker image creation, and **Kubernetes** deployment, significantly reducing manual interventions.
+**Automated** code analysis, Docker image creation, and **Kubernetes** deployment, significantly reducing manual interventions.
 
 Integrated **Argo CD** for GitOps-style continuous delivery, enabling declarative, version-controlled application deployments.
 
