@@ -46,7 +46,7 @@
 2. __Create a new Jenkins pipeline__:
    - 2.1 In Jenkins, create a new pipeline job and configure it with the Git repository URL for the Java application.
    - 2.2 Add a Jenkinsfile to the Git repository to define the pipeline stages.
-
+     
 3. __Define the pipeline stages__:
     - Stage 1: Checkout the source code from Git.
     - Stage 2: Build the Java application using Maven.
@@ -65,13 +65,25 @@
     - Stage 5: Use the Maven Integration plugin to package the application into a JAR file.
     - Stage 6: Use the Kubernetes Continuous Deploy plugin to deploy the application to a test environment using Helm or Kubernetes manifests.
     - Stage 7:Use Argo CD to promote the application to a production environment.
+      ![credentials](https://github.com/harsh-learner/Project-End-to-End-CI-CD-Automation-with-Argo-CD-/assets/141729189/cfc2dc0b-6dab-4e70-8651-ae237844b857)
+
+
+
     
 
 5. __Set up Argo CD__:
     - Install Argo CD on the Kubernetes cluster.
     - Set up a Git repository for Argo CD to track the changes in the Helm charts and Kubernetes manifests.
     - Add the Helm chart or Kubernetes manifests to the Git repository that Argo CD is tracking.
+      ![argo-cd status](https://github.com/harsh-learner/Project-End-to-End-CI-CD-Automation-with-Argo-CD-/assets/141729189/1477347d-5a6f-4c02-904b-686e5d48dcfc)
+      ![deployment-manifest](https://github.com/harsh-learner/Project-End-to-End-CI-CD-Automation-with-Argo-CD-/assets/141729189/b705956c-511c-4208-82d9-4807b2b35eb9)
+
+
+
 
 6. __Run the Jenkins pipeline__:
    - 7.1 Trigger the Jenkins pipeline to start the CI/CD process for the Java application.
    - 7.2 Monitor the pipeline stages and fix any issues that arise.
+     ![jenkins-updated](https://github.com/harsh-learner/Project-End-to-End-CI-CD-Automation-with-Argo-CD-/assets/141729189/6e8cf194-e8a8-455c-bcbc-98c49966f9b5)
+     
+
