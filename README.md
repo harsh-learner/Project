@@ -1,5 +1,5 @@
-![image](https://github.com/harsh-learner/Project-End-to-End-CI-CD-Automation-with-Argo-CD-/assets/141729189/f2152725-fc45-4b64-8f8a-94407a97140b)
-![Uploading image.png…]()
+![image](https://github.com/harsh-learner/Project-End-to-End-CI-CD-Automation-with-Argo-CD-/assets/141729189/108b7c5f-6ae6-4f4a-a69b-12bb219cb073)
+
 
 
 
