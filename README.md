@@ -1,4 +1,5 @@
 ![image](https://github.com/harsh-learner/Project-End-to-End-CI-CD-Automation-with-Argo-CD-/assets/141729189/f2152725-fc45-4b64-8f8a-94407a97140b)
+![Uploading image.png…]()
 
 
 
